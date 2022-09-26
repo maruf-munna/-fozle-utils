@@ -3,7 +3,25 @@
   "version": "1.0.0",
   "description": "A utilities library for common task, that works on React.js, Node.js and Vue.js",
   "main": "index.js",
-  "author": "Maruf hossan",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maruf-munna/-fozle-utils.git"
+  },
+  "keywords": [
+    "utilities",
+    "library",
+    "React",
+    "Node"
+  ],
+  "author": "Maruf Hossan",
   "license": "MIT",
-  "types": "index.d.ts"
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/maruf-munna/-fozle-utils/issues"
+  },
+  "homepage": "https://github.com/maruf-munna/-fozle-utils#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
