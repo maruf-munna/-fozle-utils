@@ -1,0 +1,9 @@
+{
+  "name": "@fozle/utils",
+  "version": "1.0.0",
+  "description": "A utilities library for common task, that works on React.js, Node.js and Vue.js",
+  "main": "index.js",
+  "author": "Maruf hossan",
+  "license": "MIT",
+  "types": "index.d.ts"
+}
